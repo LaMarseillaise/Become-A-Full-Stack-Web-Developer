@@ -256,7 +256,7 @@ Oh, and I've still got a lot of bookmarks to go through, so I'll be updating and
 * How to Apply
   * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
   * [Lessons from my Post-bootcamp Job search (Medium)](https://medium.freecodecamp.com/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f#.u83avhawf)
-  * [How to land a six figure job in tech with no connectinos (Medium)](https://medium.freecodecamp.com/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4#.9cc270q7j)
+  * [How to land a six figure job in tech with no connections (Medium)](https://medium.freecodecamp.com/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4#.9cc270q7j)
 
 * Resume & LinkedIn
   * [What are some of the best resuмe formats you've seen?](https://www.reddit.com/r/cscareerquestions/comments/5gnmkj/what_are_some_of_the_best_resu%D0%BCe_formats_youve/)
